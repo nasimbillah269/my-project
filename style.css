@@ -9,11 +9,12 @@ body {
 
 .first-section {
     display: flex;
+    margin-bottom: 100px;
 }
 
 .left-site {
     width: 50%;
-    margin-top: 90px;
+    margin-top: 80px;
     margin-left: 100px;
     padding: 30px;
 }
@@ -46,4 +47,20 @@ body {
 
 .botton-style:hover {
     background-color: rgb(228, 105, 5);
+}
+
+.second-section {
+    display: flex;
+    /* margin-left: 100px; */
+}
+
+.second-section {
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+}
+
+#femal-images {
+    width: 20%;
+    margin-left: 170px;
+    margin-top: 100px;
 }
