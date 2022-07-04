@@ -1,0 +1,49 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.span-stye {
+    color: goldenrod;
+}
+
+.first-section {
+    display: flex;
+}
+
+.left-site {
+    width: 50%;
+    margin-top: 90px;
+    margin-left: 100px;
+    padding: 30px;
+}
+
+.left-site h3 {
+    font-size: 30px;
+}
+
+.right-site {
+    width: 50%;
+}
+
+.left-site p {
+    margin-bottom: 30px;
+    font-size: 20px;
+}
+
+.right-site img {
+    width: 70%;
+}
+
+.botton-style {
+    text-decoration: none;
+    background-color: rgb(226, 131, 7);
+    padding: 10px 30px;
+    color: #fff;
+    border-radius: 20px;
+
+}
+
+.botton-style:hover {
+    background-color: rgb(228, 105, 5);
+}
